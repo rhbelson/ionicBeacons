@@ -8,7 +8,8 @@ import { IBeacon } from '@ionic-native/ibeacon/ngx';
   styleUrls: ['tab1.page.scss']
 })
 
-
+//Documentation: https://ionicframework.com/docs/native/ibeacon/
+//More Documentation: https://ionicframework.com/docs/native/ibeacon/
 
 export class Tab1Page {
 
