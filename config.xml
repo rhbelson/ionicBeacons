@@ -83,5 +83,8 @@
     <plugin name="cordova-plugin-ionic-webview" spec="^3.0.0" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
     <plugin name="com.unarin.cordova.beacon" spec="git+https://github.com/petermetz/cordova-plugin-ibeacon.git" />
-    <engine name="ios" spec="~4.5.5" />
+    <engine name="ios" spec="4.5.5" />
+    <engine name="browser" spec="5.0.4" />
+    <plugin name="cordova-plugin-eddystone" spec="1.3.0" />
+    <plugin name="navtureapps-proximiio" spec="https://github.com/proximiio/proximiio-cordova.git" />
 </widget>
